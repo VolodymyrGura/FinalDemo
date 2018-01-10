@@ -1,0 +1,78 @@
+2018-01-09 13:23:31,010  ERROR Unhandled exception
+System.IO.IOException: The process cannot access the file 'D:\ATQC\C#\Labs\FinalDemo\FinalDemo\Data\result.json' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at FinalDemo.Processors.TextProcessor.WriteText(String filename, String text) in D:\ATQC\C#\Labs\FinalDemo\FinalDemo\Processors\TextProcessor.cs:line 37
+2018-01-09 17:42:26,010  ERROR Unhandled exception
+System.IO.IOException: The process cannot access the file 'D:\ATQC\C#\Labs\FinalDemo\FinalDemo\Data\result.json' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at FinalDemo.Processors.TextProcessor.WriteText(String filename, String text) in D:\ATQC\C#\Labs\FinalDemo\FinalDemo\Processors\TextProcessor.cs:line 37
+2018-01-09 17:47:00,787  ERROR Unhandled exception
+System.IO.IOException: The process cannot access the file 'D:\ATQC\C#\Labs\FinalDemo\FinalDemo\Data\result.json' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at FinalDemo.Processors.TextProcessor.WriteText(String filename, String text) in D:\ATQC\C#\Labs\FinalDemo\FinalDemo\Processors\TextProcessor.cs:line 37
+2018-01-09 17:48:42,419  ERROR Unhandled exception
+System.IO.IOException: The process cannot access the file 'D:\ATQC\C#\Labs\FinalDemo\FinalDemo\Data\result.json' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at FinalDemo.Processors.TextProcessor.WriteText(String filename, String text) in D:\ATQC\C#\Labs\FinalDemo\FinalDemo\Processors\TextProcessor.cs:line 37
+2018-01-09 17:50:15,318  ERROR Unhandled exception
+System.IO.IOException: The process cannot access the file 'D:\ATQC\C#\Labs\FinalDemo\FinalDemo\Data\result.json' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at FinalDemo.Processors.TextProcessor.WriteText(String filename, String text) in D:\ATQC\C#\Labs\FinalDemo\FinalDemo\Processors\TextProcessor.cs:line 37
+2018-01-09 17:51:53,054  ERROR Unhandled exception
+System.IO.IOException: The process cannot access the file 'D:\ATQC\C#\Labs\FinalDemo\FinalDemo\Data\result.json' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at FinalDemo.Processors.TextProcessor.WriteText(String filename, String text) in D:\ATQC\C#\Labs\FinalDemo\FinalDemo\Processors\TextProcessor.cs:line 37
+2018-01-09 17:52:20,926  ERROR Unhandled exception
+System.IO.IOException: The process cannot access the file 'D:\ATQC\C#\Labs\FinalDemo\FinalDemo\Data\result.json' because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at FinalDemo.Processors.TextProcessor.WriteText(String filename, String text) in D:\ATQC\C#\Labs\FinalDemo\FinalDemo\Processors\TextProcessor.cs:line 37
+2018-01-09 18:20:55,120  ERROR Unhandled exception
+System.IO.DirectoryNotFoundException: Could not find a part of the path 'D:\ATQC\C#\Labs\FinalDemo\FinalDemo\bin\Debug\Data\res.txt'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append)
+   at FinalDemo.Processors.TextProcessor.WriteText(String filename, String text) in D:\ATQC\C#\Labs\FinalDemo\FinalDemo\Processors\TextProcessor.cs:line 37
+2018-01-09 18:41:06,618  ERROR Unhandled exception
+System.ArgumentNullException: Value cannot be null.
+Parameter name: path
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding)
+   at FinalDemo.Processors.TextProcessor.ReadText(String filename) in D:\ATQC\C#\Labs\FinalDemo\FinalDemo\Processors\TextProcessor.cs:line 19

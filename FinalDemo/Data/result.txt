@@ -1,0 +1,328 @@
+[
+  {
+    "Name": "Bronze",
+    "Count": 11
+  },
+  {
+    "Name": "Silver",
+    "Count": 10
+  },
+  {
+    "Name": "Palladium",
+    "Count": 14
+  },
+  {
+    "Name": "Gold",
+    "Count": 14
+  },
+  {
+    "Name": "Platinum",
+    "Count": 11
+  },
+  {
+    "Name": "Palladium",
+    "Count": 11
+  },
+  {
+    "Name": "Platinum",
+    "Count": 6
+  },
+  {
+    "Name": "Gold",
+    "Count": 7
+  },
+  {
+    "Name": "Silver",
+    "Count": 10
+  },
+  {
+    "Name": "Bronze",
+    "Count": 6
+  },
+  {
+    "Name": "Gold",
+    "Count": 19
+  },
+  {
+    "Name": "Platinum",
+    "Count": 20
+  },
+  {
+    "Name": "Silver",
+    "Count": 19
+  },
+  {
+    "Name": "Palladium",
+    "Count": 15
+  },
+  {
+    "Name": "Bronze",
+    "Count": 8
+  },
+  {
+    "Name": "Platinum",
+    "Count": 4
+  },
+  {
+    "Name": "Silver",
+    "Count": 5
+  },
+  {
+    "Name": "Gold",
+    "Count": 4
+  },
+  {
+    "Name": "Palladium",
+    "Count": 3
+  },
+  {
+    "Name": "Bronze",
+    "Count": 4
+  }
+]
+[
+  {
+    "Name": "Gold",
+    "Count": 13
+  },
+  {
+    "Name": "Silver",
+    "Count": 11
+  },
+  {
+    "Name": "Bronze",
+    "Count": 14
+  },
+  {
+    "Name": "Platinum",
+    "Count": 15
+  },
+  {
+    "Name": "Palladium",
+    "Count": 7
+  },
+  {
+    "Name": "Silver",
+    "Count": 6
+  },
+  {
+    "Name": "Bronze",
+    "Count": 10
+  },
+  {
+    "Name": "Palladium",
+    "Count": 9
+  },
+  {
+    "Name": "Platinum",
+    "Count": 7
+  },
+  {
+    "Name": "Gold",
+    "Count": 8
+  },
+  {
+    "Name": "Bronze",
+    "Count": 17
+  },
+  {
+    "Name": "Palladium",
+    "Count": 18
+  },
+  {
+    "Name": "Platinum",
+    "Count": 16
+  },
+  {
+    "Name": "Gold",
+    "Count": 16
+  },
+  {
+    "Name": "Silver",
+    "Count": 14
+  },
+  {
+    "Name": "Silver",
+    "Count": 7
+  },
+  {
+    "Name": "Bronze",
+    "Count": 4
+  },
+  {
+    "Name": "Platinum",
+    "Count": 5
+  },
+  {
+    "Name": "Palladium",
+    "Count": 1
+  },
+  {
+    "Name": "Gold",
+    "Count": 3
+  }
+]
+[
+  {
+    "Name": "Bronze",
+    "Count": 10
+  },
+  {
+    "Name": "Silver",
+    "Count": 16
+  },
+  {
+    "Name": "Palladium",
+    "Count": 13
+  },
+  {
+    "Name": "Gold",
+    "Count": 5
+  },
+  {
+    "Name": "Platinum",
+    "Count": 16
+  },
+  {
+    "Name": "Gold",
+    "Count": 8
+  },
+  {
+    "Name": "Bronze",
+    "Count": 7
+  },
+  {
+    "Name": "Silver",
+    "Count": 10
+  },
+  {
+    "Name": "Platinum",
+    "Count": 6
+  },
+  {
+    "Name": "Palladium",
+    "Count": 9
+  },
+  {
+    "Name": "Palladium",
+    "Count": 8
+  },
+  {
+    "Name": "Gold",
+    "Count": 13
+  },
+  {
+    "Name": "Bronze",
+    "Count": 23
+  },
+  {
+    "Name": "Platinum",
+    "Count": 21
+  },
+  {
+    "Name": "Silver",
+    "Count": 16
+  },
+  {
+    "Name": "Palladium",
+    "Count": 2
+  },
+  {
+    "Name": "Bronze",
+    "Count": 5
+  },
+  {
+    "Name": "Silver",
+    "Count": 4
+  },
+  {
+    "Name": "Platinum",
+    "Count": 5
+  },
+  {
+    "Name": "Gold",
+    "Count": 4
+  }
+]
+[
+  {
+    "Name": "Bronze",
+    "Count": 12
+  },
+  {
+    "Name": "Silver",
+    "Count": 10
+  },
+  {
+    "Name": "Gold",
+    "Count": 16
+  },
+  {
+    "Name": "Palladium",
+    "Count": 13
+  },
+  {
+    "Name": "Platinum",
+    "Count": 9
+  },
+  {
+    "Name": "Gold",
+    "Count": 11
+  },
+  {
+    "Name": "Bronze",
+    "Count": 4
+  },
+  {
+    "Name": "Platinum",
+    "Count": 8
+  },
+  {
+    "Name": "Silver",
+    "Count": 12
+  },
+  {
+    "Name": "Palladium",
+    "Count": 5
+  },
+  {
+    "Name": "Bronze",
+    "Count": 14
+  },
+  {
+    "Name": "Gold",
+    "Count": 19
+  },
+  {
+    "Name": "Platinum",
+    "Count": 15
+  },
+  {
+    "Name": "Palladium",
+    "Count": 19
+  },
+  {
+    "Name": "Silver",
+    "Count": 14
+  },
+  {
+    "Name": "Palladium",
+    "Count": 1
+  },
+  {
+    "Name": "Silver",
+    "Count": 5
+  },
+  {
+    "Name": "Bronze",
+    "Count": 4
+  },
+  {
+    "Name": "Gold",
+    "Count": 9
+  },
+  {
+    "Name": "Platinum",
+    "Count": 1
+  }
+]

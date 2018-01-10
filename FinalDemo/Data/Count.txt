@@ -1,0 +1,176 @@
+Lviv, Chornovil Avenue, 3
+Name: Gold	Count: 14
+
+Name: Bronze	Count: 13
+
+Name: Silver	Count: 13
+
+Name: Palladium	Count: 9
+
+Name: Platinum	Count: 11
+
+Lviv, st. Sykhivs'ka, 21
+Name: Palladium	Count: 11
+
+Name: Platinum	Count: 11
+
+Name: Bronze	Count: 6
+
+Name: Gold	Count: 7
+
+Name: Silver	Count: 5
+
+Ternopil, st. Bogdan Khmelnitsky, 59
+Name: Palladium	Count: 19
+
+Name: Gold	Count: 22
+
+Name: Bronze	Count: 14
+
+Name: Platinum	Count: 13
+
+Name: Silver	Count: 13
+
+Kyiv, Peremohy Avenue, 303
+Name: Silver	Count: 6
+
+Name: Palladium	Count: 6
+
+Name: Bronze	Count: 2
+
+Name: Platinum	Count: 3
+
+Name: Gold	Count: 3
+
+Lviv, Chornovil Avenue, 3
+Name: Silver	Count: 12
+
+Name: Bronze	Count: 11
+
+Name: Gold	Count: 20
+
+Name: Platinum	Count: 6
+
+Name: Palladium	Count: 11
+
+Lviv, st. Sykhivs'ka, 21
+Name: Platinum	Count: 11
+
+Name: Silver	Count: 7
+
+Name: Bronze	Count: 7
+
+Name: Gold	Count: 8
+
+Name: Palladium	Count: 7
+
+Ternopil, st. Bogdan Khmelnitsky, 59
+Name: Platinum	Count: 19
+
+Name: Silver	Count: 13
+
+Name: Bronze	Count: 17
+
+Name: Palladium	Count: 16
+
+Name: Gold	Count: 16
+
+Kyiv, Peremohy Avenue, 303
+Name: Silver	Count: 4
+
+Name: Palladium	Count: 5
+
+Name: Gold	Count: 5
+
+Name: Platinum	Count: 3
+
+Name: Bronze	Count: 3
+
+Lviv, Chornovil Avenue, 3
+Name: Bronze	Count: 8
+
+Name: Platinum	Count: 12
+
+Name: Silver	Count: 15
+
+Name: Palladium	Count: 12
+
+Name: Gold	Count: 13
+
+Lviv, st. Sykhivs'ka, 21
+Name: Palladium	Count: 4
+
+Name: Gold	Count: 9
+
+Name: Silver	Count: 7
+
+Name: Bronze	Count: 9
+
+Name: Platinum	Count: 11
+
+Ternopil, st. Bogdan Khmelnitsky, 59
+Name: Palladium	Count: 20
+
+Name: Platinum	Count: 14
+
+Name: Gold	Count: 15
+
+Name: Bronze	Count: 20
+
+Name: Silver	Count: 12
+
+Kyiv, Peremohy Avenue, 303
+Name: Platinum	Count: 4
+
+Name: Palladium	Count: 3
+
+Name: Bronze	Count: 4
+
+Name: Gold	Count: 6
+
+Name: Silver	Count: 3
+
+Lviv, Chornovil Avenue, 3
+Name: Platinum	Count: 16
+
+Name: Silver	Count: 15
+
+Name: Gold	Count: 9
+
+Name: Bronze	Count: 9
+
+Name: Palladium	Count: 11
+
+Lviv, st. Sykhivs'ka, 21
+Name: Bronze	Count: 6
+
+Name: Palladium	Count: 10
+
+Name: Gold	Count: 9
+
+Name: Silver	Count: 10
+
+Name: Platinum	Count: 5
+
+Ternopil, st. Bogdan Khmelnitsky, 59
+Name: Gold	Count: 19
+
+Name: Silver	Count: 16
+
+Name: Platinum	Count: 10
+
+Name: Palladium	Count: 19
+
+Name: Bronze	Count: 17
+
+Kyiv, Peremohy Avenue, 303
+Name: Gold	Count: 7
+
+Name: Silver	Count: 4
+
+Name: Platinum	Count: 3
+
+Name: Bronze	Count: 5
+
+Name: Palladium	Count: 1
+

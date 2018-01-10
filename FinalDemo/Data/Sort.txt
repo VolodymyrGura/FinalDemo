@@ -1,0 +1,1302 @@
+Lviv, Chornovil Avenue, 3
+Name: Silver	Count: 12
+
+Name: Bronze	Count: 17
+
+Name: Platinum	Count: 13
+
+Name: Gold	Count: 6
+
+Name: Palladium	Count: 12
+
+Earrings Silver 4,09296809886255 18626
+
+Earrings Silver 2,30513967680984 6628
+
+Earrings Platinum 12,1003325339874 5220
+
+Earrings Palladium 6,40028555244221 18777
+
+Earrings Bronze 2,418110660472 11532
+
+Earrings Gold 1,33757660227715 5214
+
+Earrings Silver 4,06321793052518 4081
+
+Earrings Palladium 8,38630504365373 5171
+
+Earrings Platinum 14,6914041855798 11779
+
+Earrings Bronze 11,1673124000278 1961
+
+Earrings Gold 11,6314430123341 18554
+
+Earrings Silver 7,37734110438141 4389
+
+Earrings Palladium 17,813486874948 11003
+
+Earrings Platinum 10,8603825191317 12388
+
+Earrings Platinum 9,81459751250902 1781
+
+Necklace Bronze 8,09614898082621 12658
+
+Necklace Platinum 1,00204822654 6110
+
+Necklace Bronze 3,30902545866977 1949
+
+Necklace Bronze 12,2409965620567 7997
+
+Necklace Bronze 10,8857941771326 4224
+
+Necklace Bronze 4,02954911069458 8885
+
+Necklace Silver 12,8051805928374 7611
+
+Necklace Bronze 8,06428414213671 19041
+
+Necklace Platinum 17,1555186049806 2986
+
+Necklace Gold 9,52164101857768 19492
+
+Necklace Palladium 1,51769787143809 8020
+
+Necklace Platinum 8,10780617786003 19981
+
+Necklace Silver 4,26732544054618 19431
+
+Necklace Palladium 7,07343329073555 14526
+
+Necklace Bronze 13,8142072753116 8338
+
+WeddingRing Silver 15,9431438874189 12372
+
+WeddingRing Bronze 13,5184776287146 1205
+
+WeddingRing Palladium 17,184421409473 9408
+
+WeddingRing Silver 1,89776880754985 10558
+
+WeddingRing Palladium 4,95832657672387 12425
+
+WeddingRing Silver 7,15940258799093 10311
+
+WeddingRing Silver 4,82807107494589 18096
+
+WeddingRing Platinum 15,227564915655 11803
+
+WeddingRing Platinum 19,3139885455901 5466
+
+WeddingRing Silver 16,2566322722736 10407
+
+WeddingRing Bronze 13,8318953727521 8890
+
+WeddingRing Platinum 11,6289763393015 11549
+
+WeddingRing Platinum 9,13671263919059 11936
+
+WeddingRing Bronze 8,12215730926122 1416
+
+WeddingRing Palladium 2,75414314249258 17167
+
+Coulomb Gold 12,0514478683711 17084
+
+Coulomb Palladium 16,6661949812743 13305
+
+Coulomb Platinum 14,9042986868435 2666
+
+Coulomb Bronze 0,727722999047359 15012
+
+Coulomb Bronze 1,91177462316666 8570
+
+Coulomb Silver 9,36674208816455 1356
+
+Coulomb Bronze 4,50324522541056 12655
+
+Coulomb Palladium 18,5817897126925 7637
+
+Coulomb Gold 13,8104236562785 7551
+
+Coulomb Palladium 3,2406473361145 5729
+
+Coulomb Bronze 1,34473444956575 16260
+
+Coulomb Palladium 18,8982236007686 7874
+
+Coulomb Gold 19,2876520004532 17120
+
+Coulomb Bronze 4,50970713259173 13079
+
+Coulomb Platinum 16,8282818500084 6779
+
+Lviv, st. Sykhivs'ka, 21
+Name: Silver	Count: 9
+
+Name: Bronze	Count: 14
+
+Name: Palladium	Count: 10
+
+Name: Platinum	Count: 3
+
+Name: Gold	Count: 4
+
+Ternopil, st. Bogdan Khmelnitsky, 59
+Name: Platinum	Count: 15
+
+Name: Palladium	Count: 20
+
+Name: Bronze	Count: 17
+
+Name: Silver	Count: 15
+
+Name: Gold	Count: 14
+
+Earrings Palladium 10,8756091403196 10855
+
+Earrings Bronze 16,6810471176547 16614
+
+Earrings Platinum 6,60224212641001 16695
+
+Earrings Gold 9,27768152639162 3318
+
+Earrings Platinum 19,8405025712403 9357
+
+Earrings Silver 16,7222901977237 17199
+
+Earrings Palladium 18,9160177292842 5327
+
+Earrings Silver 9,93758147113844 16821
+
+Earrings Palladium 2,33600891304017 17596
+
+Earrings Gold 19,8735568485565 12597
+
+Earrings Palladium 19,9801694042888 4110
+
+Earrings Palladium 7,03530768260141 7934
+
+Earrings Bronze 2,12660323927486 8196
+
+Earrings Silver 2,97971865301007 18640
+
+Earrings Platinum 13,7399623886403 4427
+
+Earrings Palladium 10,5174955588381 1646
+
+Earrings Gold 6,49072793614619 15686
+
+Earrings Bronze 0,71817570399408 6336
+
+Earrings Palladium 14,2266147370574 13441
+
+Earrings Gold 13,0072711654973 7001
+
+Earrings Silver 12,7536208614491 8472
+
+Earrings Gold 4,35337143221561 18757
+
+Earrings Palladium 6,62232505465966 19945
+
+Necklace Platinum 4,57953668412731 19867
+
+Necklace Silver 3,11601892258787 14802
+
+Necklace Bronze 1,39763317135984 9621
+
+Necklace Palladium 1,10215702145461 19152
+
+Necklace Palladium 16,6866780615815 18362
+
+Necklace Gold 17,170136541673 19936
+
+Necklace Silver 8,56893916082053 1155
+
+Necklace Bronze 6,08809884921093 1085
+
+Necklace Bronze 3,07149888159311 2934
+
+Necklace Silver 14,5422659882075 12726
+
+Necklace Bronze 9,38100798492367 6375
+
+Necklace Platinum 5,16675467843504 14071
+
+Necklace Gold 2,13836979220545 2840
+
+Necklace Gold 1,01142642135333 1221
+
+Necklace Platinum 4,39495632629607 10406
+
+Necklace Palladium 14,7332258032324 11332
+
+Necklace Silver 15,1646228857174 7097
+
+Necklace Platinum 9,28121778614876 1296
+
+Necklace Bronze 17,9418844999475 5927
+
+Necklace Platinum 13,2721271148287 2298
+
+Necklace Silver 0,841013780255343 1619
+
+Necklace Gold 5,28069859616491 11026
+
+Necklace Gold 3,60736013558105 18876
+
+Necklace Bronze 16,4400440344773 16737
+
+Necklace Silver 7,36264559783165 7945
+
+WeddingRing Palladium 2,5061315123486 13926
+
+WeddingRing Palladium 6,45328307824828 2562
+
+WeddingRing Silver 16,4192133100793 3874
+
+WeddingRing Bronze 10,2188557154587 10337
+
+WeddingRing Gold 13,9015232277576 14260
+
+WeddingRing Platinum 14,5687008903216 15472
+
+WeddingRing Palladium 11,6172702292061 3106
+
+WeddingRing Bronze 9,48172461683011 7195
+
+WeddingRing Silver 8,42785277796344 2455
+
+WeddingRing Platinum 0,21375898281753 13129
+
+WeddingRing Platinum 12,4585755227406 9257
+
+WeddingRing Palladium 10,3477416608239 13277
+
+WeddingRing Palladium 8,98157072671762 11829
+
+WeddingRing Platinum 5,76464256540157 6200
+
+Coulomb Platinum 19,7943818568226 4212
+
+Coulomb Silver 9,77276775509714 19940
+
+Coulomb Bronze 3,5601718274691 13617
+
+Coulomb Bronze 12,4349136242806 3254
+
+Coulomb Palladium 1,59617718383492 14367
+
+Coulomb Palladium 15,0513863540494 3368
+
+Coulomb Silver 16,6739419087181 11626
+
+Coulomb Bronze 10,4485517416375 19623
+
+Coulomb Platinum 0,465295724787421 4583
+
+Coulomb Bronze 7,25112200120982 8084
+
+Coulomb Gold 6,06273881442041 11887
+
+Coulomb Silver 9,40179819678971 16523
+
+Coulomb Gold 2,15054854850776 2339
+
+Coulomb Palladium 6,65886864376202 7704
+
+Coulomb Platinum 2,8310218745987 14886
+
+Coulomb Palladium 19,445546325038 9029
+
+Coulomb Gold 17,963076465746 2883
+
+Coulomb Bronze 15,3595115129647 9696
+
+Coulomb Bronze 9,82978035222263 4737
+
+Kyiv, Peremohy Avenue, 303
+Name: Silver	Count: 2
+
+Name: Palladium	Count: 2
+
+Name: Gold	Count: 5
+
+Name: Bronze	Count: 8
+
+Name: Platinum	Count: 3
+
+Lviv, Chornovil Avenue, 3
+Name: Palladium	Count: 6
+
+Name: Gold	Count: 15
+
+Name: Bronze	Count: 13
+
+Name: Platinum	Count: 15
+
+Name: Silver	Count: 11
+
+Earrings Platinum 6,49722843733487 17676
+
+Earrings Bronze 1,85956047003137 13506
+
+Earrings Platinum 16,4188579639508 3974
+
+Earrings Platinum 8,85792492370025 13176
+
+Earrings Silver 16,2905492150646 17129
+
+Earrings Platinum 3,66080560891927 14953
+
+Earrings Silver 0,409477921393457 16882
+
+Earrings Palladium 7,38696190872554 9405
+
+Earrings Gold 0,650339601864265 5235
+
+Earrings Gold 3,90669904831178 8006
+
+Earrings Bronze 15,5453526766716 13999
+
+Earrings Platinum 17,9522626185567 12055
+
+Earrings Gold 16,7451896968974 19202
+
+Earrings Gold 9,99453202355399 7273
+
+Earrings Platinum 13,9578698174832 15782
+
+Earrings Palladium 1,56381144261165 16761
+
+Earrings Bronze 13,7318671838063 13882
+
+Necklace Palladium 17,7167267434843 10976
+
+Necklace Gold 8,21802531751712 15443
+
+Necklace Bronze 13,8269023102833 5018
+
+Necklace Platinum 12,6327118429508 8115
+
+Necklace Silver 12,8655080743439 19333
+
+Necklace Platinum 8,02994706110561 11144
+
+Necklace Gold 2,57588682816172 1682
+
+Necklace Gold 18,3872282776922 14461
+
+Necklace Gold 3,40065398411856 17630
+
+Necklace Bronze 4,5316688085588 11928
+
+Necklace Bronze 18,5439104300662 1442
+
+Necklace Silver 7,12229298759359 2452
+
+Necklace Gold 8,15046120814535 8309
+
+Necklace Palladium 2,3010973270522 3373
+
+WeddingRing Bronze 14,0662450874533 1869
+
+WeddingRing Platinum 4,24831996869683 9163
+
+WeddingRing Gold 0,909293508580557 11057
+
+WeddingRing Bronze 11,1706351075185 9987
+
+WeddingRing Platinum 9,9697717977547 16909
+
+WeddingRing Silver 7,82039036407154 10817
+
+WeddingRing Platinum 12,9427933380673 13147
+
+WeddingRing Bronze 9,59278982579372 11907
+
+WeddingRing Bronze 8,37485021370223 17996
+
+WeddingRing Gold 18,1801547287871 8277
+
+WeddingRing Gold 8,20950876372378 5181
+
+WeddingRing Platinum 12,6134410000469 7710
+
+Coulomb Palladium 18,3860163941914 8704
+
+Coulomb Gold 5,81401133249235 12487
+
+Coulomb Gold 17,1311223027907 13327
+
+Coulomb Silver 9,98899847734207 14622
+
+Coulomb Gold 16,9364027105907 18573
+
+Coulomb Silver 4,93800901106466 5522
+
+Coulomb Bronze 11,5125881840999 8362
+
+Coulomb Bronze 0,920075457971578 3791
+
+Coulomb Bronze 19,1162309232709 9191
+
+Coulomb Silver 11,1712481785432 19723
+
+Coulomb Platinum 14,1097173626114 13104
+
+Coulomb Palladium 18,0046226819999 4731
+
+Coulomb Platinum 17,0056700878803 10642
+
+Coulomb Silver 12,7899306140793 14480
+
+Coulomb Silver 17,9327733525693 5324
+
+Coulomb Silver 12,8483419180141 18280
+
+Coulomb Platinum 4,39203312825041 19924
+
+Lviv, st. Sykhivs'ka, 21
+Name: Silver	Count: 10
+
+Name: Gold	Count: 10
+
+Name: Platinum	Count: 8
+
+Name: Bronze	Count: 7
+
+Name: Palladium	Count: 5
+
+Ternopil, st. Bogdan Khmelnitsky, 59
+Name: Bronze	Count: 15
+
+Name: Gold	Count: 13
+
+Name: Platinum	Count: 20
+
+Name: Silver	Count: 16
+
+Name: Palladium	Count: 17
+
+Earrings Silver 8,26325831388275 19205
+
+Earrings Silver 5,36855109285962 2120
+
+Earrings Silver 1,256707897995 9370
+
+Earrings Platinum 16,9489820007929 13832
+
+Earrings Palladium 9,20096562672451 19509
+
+Earrings Silver 7,160426651668 8821
+
+Earrings Platinum 7,49259188188826 3459
+
+Earrings Gold 7,73783825698208 3359
+
+Earrings Platinum 7,84235339045634 18818
+
+Earrings Gold 2,09775365986757 5561
+
+Earrings Palladium 16,2485775427188 13016
+
+Earrings Gold 10,8024025013682 17214
+
+Earrings Palladium 8,11603720677832 10902
+
+Earrings Palladium 9,24334754666469 8009
+
+Earrings Platinum 8,72414626587375 8197
+
+Earrings Bronze 3,19022993705712 5426
+
+Earrings Gold 2,58886777916405 9087
+
+Earrings Platinum 3,82872643127513 18936
+
+Earrings Gold 8,83961857708153 9247
+
+Necklace Silver 18,2723064246924 1444
+
+Necklace Silver 12,3358306159898 15497
+
+Necklace Platinum 18,9037146972975 3014
+
+Necklace Palladium 1,38686516386776 8032
+
+Necklace Gold 1,52646744694862 19633
+
+Necklace Platinum 15,6251776756836 8855
+
+Necklace Silver 7,92033801224099 5384
+
+Necklace Palladium 6,82443855648136 8590
+
+Necklace Palladium 9,49665947328166 19832
+
+Necklace Palladium 12,6666998922204 14267
+
+Necklace Gold 0,0605595112128926 1519
+
+Necklace Palladium 16,6207357852816 3346
+
+Necklace Bronze 18,1221713955152 2120
+
+Necklace Bronze 17,9645232939927 9630
+
+Necklace Platinum 1,81732205758678 15732
+
+Necklace Platinum 2,6466319163547 6071
+
+Necklace Gold 5,58343627750102 9275
+
+Necklace Palladium 15,0523247919289 3450
+
+Necklace Silver 2,49287044745538 9214
+
+Necklace Platinum 8,90140674491479 11215
+
+Necklace Platinum 10,8165689701292 13172
+
+Necklace Gold 10,8418831093432 17775
+
+Necklace Palladium 10,479267020933 16646
+
+WeddingRing Bronze 8,9432635293078 6585
+
+WeddingRing Silver 14,1191413691822 14424
+
+WeddingRing Platinum 1,84384391728968 10528
+
+WeddingRing Silver 15,8301836884721 17757
+
+WeddingRing Gold 19,0879304702803 9623
+
+WeddingRing Palladium 16,0404619276712 1387
+
+WeddingRing Platinum 3,01442984631957 1145
+
+WeddingRing Bronze 1,02757257457244 1997
+
+WeddingRing Bronze 11,4257741027632 10059
+
+WeddingRing Gold 18,7601835368016 5300
+
+WeddingRing Palladium 18,2292325507054 10936
+
+WeddingRing Bronze 14,1433591088948 9521
+
+WeddingRing Bronze 15,5960120985266 1912
+
+WeddingRing Platinum 11,7035996782145 12925
+
+WeddingRing Bronze 19,9924124404753 12571
+
+WeddingRing Silver 5,84139338035201 6597
+
+WeddingRing Platinum 19,3667356015028 1388
+
+WeddingRing Palladium 12,0063711851865 9569
+
+WeddingRing Palladium 5,54787567143695 14092
+
+WeddingRing Bronze 15,6553519590084 11157
+
+WeddingRing Platinum 14,2909658673643 6740
+
+Coulomb Gold 1,60771871991815 12370
+
+Coulomb Platinum 2,63502749737121 4286
+
+Coulomb Platinum 9,12710239604446 6358
+
+Coulomb Silver 2,78586522805778 11406
+
+Coulomb Bronze 13,5761967737117 3422
+
+Coulomb Bronze 5,24219188151983 10229
+
+Coulomb Platinum 0,656467546083251 17055
+
+Coulomb Silver 18,3751755293343 9327
+
+Coulomb Platinum 11,0386004909121 9567
+
+Coulomb Bronze 12,6962976589316 16619
+
+Coulomb Palladium 13,5741037007301 11535
+
+Coulomb Palladium 17,1013495591941 8087
+
+Coulomb Silver 6,41248861626372 10370
+
+Coulomb Bronze 7,95844753643426 11557
+
+Coulomb Gold 14,1037317989877 9279
+
+Coulomb Silver 8,46605047977811 1543
+
+Coulomb Bronze 18,2121013748516 7532
+
+Coulomb Silver 11,040948569328 13164
+
+Kyiv, Peremohy Avenue, 303
+Name: Palladium	Count: 4
+
+Name: Platinum	Count: 4
+
+Name: Silver	Count: 2
+
+Name: Gold	Count: 4
+
+Name: Bronze	Count: 6
+
+Lviv, Chornovil Avenue, 3
+Name: Palladium	Count: 12
+
+Name: Platinum	Count: 15
+
+Name: Silver	Count: 15
+
+Name: Bronze	Count: 10
+
+Name: Gold	Count: 8
+
+Earrings Platinum 9,35280874807053 5959
+
+Earrings Bronze 14,3397897176164 9800
+
+Earrings Platinum 8,11243836214414 3129
+
+Earrings Gold 14,5766971700716 13541
+
+Earrings Silver 5,92407423347424 5654
+
+Earrings Bronze 10,8229612702611 7168
+
+Necklace Palladium 10,2293114318649 8210
+
+Necklace Bronze 6,50813081604807 18359
+
+Necklace Silver 18,3381057522903 13369
+
+Necklace Platinum 18,2006579070355 15356
+
+Necklace Palladium 8,57999412742443 7790
+
+Necklace Silver 1,44466947831431 9228
+
+Necklace Gold 13,3111663131561 9725
+
+Necklace Silver 1,68045180927983 11035
+
+Necklace Gold 6,37668324000048 15588
+
+Necklace Palladium 16,7377548277088 19205
+
+Necklace Silver 4,961181806848 17774
+
+Necklace Palladium 18,4243844442183 7608
+
+Necklace Bronze 6,21899486808991 18287
+
+Necklace Silver 14,3254767704408 7950
+
+Necklace Gold 3,14371833724143 3460
+
+Necklace Platinum 8,83492603378134 12980
+
+Necklace Gold 13,1948896372667 3826
+
+Necklace Silver 15,4572395027882 7435
+
+Necklace Silver 1,90142690292626 17374
+
+Necklace Palladium 3,05918751426935 7409
+
+Necklace Silver 2,10924420603981 16619
+
+WeddingRing Bronze 4,42191972603179 3729
+
+WeddingRing Platinum 12,978294274294 13636
+
+WeddingRing Silver 19,4404522792625 4605
+
+WeddingRing Bronze 6,66164761719371 9147
+
+WeddingRing Bronze 8,83333432899478 16670
+
+WeddingRing Platinum 3,47484363404794 9469
+
+WeddingRing Silver 2,72706466853948 7628
+
+WeddingRing Platinum 4,83106266932146 3944
+
+WeddingRing Platinum 5,98978494572909 5573
+
+WeddingRing Gold 12,8164669372218 3471
+
+WeddingRing Platinum 0,41824291479692 7092
+
+WeddingRing Platinum 14,8900621919381 8892
+
+WeddingRing Gold 13,5734697680797 14997
+
+WeddingRing Palladium 10,5457505074077 16850
+
+WeddingRing Gold 17,0453891516874 14368
+
+WeddingRing Platinum 19,4131189861396 16475
+
+WeddingRing Silver 4,72832700457812 10151
+
+WeddingRing Palladium 8,05036484638712 17473
+
+WeddingRing Bronze 11,7468401751233 1977
+
+WeddingRing Bronze 5,81779216687092 9136
+
+WeddingRing Palladium 19,0698275617649 5637
+
+WeddingRing Palladium 13,4170373684806 4884
+
+Coulomb Silver 1,95735141726087 10443
+
+Coulomb Palladium 19,1381266057203 5233
+
+Coulomb Platinum 10,7152540472873 5901
+
+Coulomb Palladium 18,823407161433 10915
+
+Coulomb Platinum 1,86666348104675 8503
+
+Coulomb Silver 19,8731879609978 18742
+
+Coulomb Bronze 8,14982292621854 11687
+
+Coulomb Palladium 12,7547612380026 16134
+
+Coulomb Platinum 11,3375627395406 14600
+
+Coulomb Silver 19,9878444895092 2598
+
+Coulomb Platinum 18,6110684362292 11135
+
+Lviv, st. Sykhivs'ka, 21
+Name: Gold	Count: 9
+
+Name: Bronze	Count: 11
+
+Name: Palladium	Count: 8
+
+Name: Platinum	Count: 4
+
+Name: Silver	Count: 8
+
+Ternopil, st. Bogdan Khmelnitsky, 59
+Name: Gold	Count: 14
+
+Name: Bronze	Count: 15
+
+Name: Palladium	Count: 23
+
+Name: Platinum	Count: 13
+
+Name: Silver	Count: 16
+
+Earrings Gold 7,59173008966806 4980
+
+Earrings Palladium 9,66853765289697 6341
+
+Earrings Platinum 17,0086080753285 1150
+
+Earrings Bronze 5,38260508579323 4259
+
+Earrings Palladium 19,3288145956252 3531
+
+Earrings Palladium 11,1054883855886 10785
+
+Earrings Bronze 12,9393942900651 3647
+
+Earrings Palladium 13,1271657874469 1912
+
+Earrings Platinum 9,89532957314296 7408
+
+Earrings Palladium 15,7162405251135 2768
+
+Earrings Palladium 17,5312465510942 8612
+
+Earrings Silver 14,6482690398806 13983
+
+Earrings Palladium 1,6166352488178 17894
+
+Earrings Platinum 0,882243970819863 14804
+
+Necklace Palladium 14,1284541851508 9723
+
+Necklace Silver 1,77937638097414 13763
+
+Necklace Palladium 19,1587757594691 8969
+
+Necklace Silver 1,71405425375051 18562
+
+Necklace Silver 2,39991941601034 4880
+
+Necklace Palladium 9,92844880089557 14139
+
+Necklace Silver 4,98067983658085 11393
+
+Necklace Gold 7,04721141003408 13243
+
+Necklace Palladium 0,141300708121294 10976
+
+Necklace Platinum 10,5402512897459 17239
+
+Necklace Silver 11,2498860486084 15945
+
+Necklace Gold 7,78380975489682 3568
+
+Necklace Silver 12,2615872660007 14390
+
+Necklace Palladium 15,3347707890602 15025
+
+Necklace Gold 17,8899809987703 7671
+
+Necklace Gold 16,1923630331607 18290
+
+Necklace Silver 4,95489860184253 1112
+
+Necklace Platinum 13,2981278995509 7600
+
+Necklace Palladium 17,9049165164609 1428
+
+Necklace Palladium 6,17028564502033 12667
+
+Necklace Platinum 4,72913137857296 1884
+
+Necklace Silver 2,96368992094122 13105
+
+Necklace Gold 10,7283166659662 17823
+
+Necklace Gold 18,8150198286469 19088
+
+Necklace Bronze 9,71091831555167 11764
+
+Necklace Bronze 16,622953478537 15692
+
+Necklace Silver 17,1464333111171 1464
+
+Necklace Platinum 16,144401829757 13105
+
+Necklace Gold 12,4873850552772 14898
+
+WeddingRing Bronze 0,463439356751479 12814
+
+WeddingRing Palladium 4,77113195917156 18978
+
+WeddingRing Silver 7,23293449135168 2988
+
+WeddingRing Palladium 1,06180266526612 19169
+
+WeddingRing Bronze 5,76432312175833 8492
+
+WeddingRing Palladium 13,2501243395964 4123
+
+WeddingRing Gold 8,00562187470758 9075
+
+WeddingRing Palladium 14,0933656292471 4696
+
+WeddingRing Silver 13,7986904912622 11783
+
+WeddingRing Bronze 7,77079818200823 16881
+
+WeddingRing Palladium 4,10437550586852 6535
+
+WeddingRing Bronze 5,21649956946098 3874
+
+WeddingRing Palladium 8,6363133548928 18359
+
+WeddingRing Bronze 1,26375814027328 19516
+
+WeddingRing Platinum 11,4130134747424 16568
+
+WeddingRing Bronze 8,51107618236499 5046
+
+WeddingRing Gold 11,2015786074109 14234
+
+WeddingRing Bronze 19,2855060283493 16090
+
+WeddingRing Gold 3,54084381998556 19799
+
+WeddingRing Silver 4,41525754724408 2393
+
+WeddingRing Bronze 9,02288555587776 8247
+
+Coulomb Platinum 0,433568395876125 1031
+
+Coulomb Bronze 2,72283662237359 6062
+
+Coulomb Gold 17,6545273687944 2438
+
+Coulomb Platinum 12,3301595879393 15447
+
+Coulomb Palladium 9,40340934759165 6012
+
+Coulomb Platinum 14,2148343446734 4770
+
+Coulomb Gold 9,27809877753169 9813
+
+Coulomb Palladium 4,57105658229955 2595
+
+Coulomb Silver 6,36617898306166 3091
+
+Coulomb Gold 7,14727245604027 6738
+
+Coulomb Platinum 0,385984061465591 9400
+
+Coulomb Platinum 10,8558691716082 6322
+
+Coulomb Silver 0,922614643779869 10682
+
+Coulomb Palladium 11,0786591614963 18749
+
+Coulomb Bronze 4,47494299359384 11681
+
+Coulomb Bronze 0,678306259530739 8344
+
+Coulomb Silver 11,9544313810554 15549
+
+Kyiv, Peremohy Avenue, 303
+Name: Palladium	Count: 5
+
+Name: Gold	Count: 7
+
+Name: Platinum	Count: 3
+
+Name: Silver	Count: 5
+
+Lviv, Chornovil Avenue, 3
+Name: Bronze	Count: 20
+
+Name: Platinum	Count: 10
+
+Name: Gold	Count: 12
+
+Name: Palladium	Count: 7
+
+Name: Silver	Count: 11
+
+Earrings Bronze 4,87984543893479 11171
+
+Earrings Bronze 8,13778957730987 19243
+
+Earrings Palladium 12,3382548020865 19949
+
+Earrings Silver 13,9350684610824 15001
+
+Earrings Silver 6,07303055286083 14004
+
+Earrings Gold 3,87347096757659 8922
+
+Earrings Gold 13,9476849576215 13354
+
+Earrings Bronze 13,1377905947798 16604
+
+Earrings Platinum 3,13027253520222 3624
+
+Earrings Bronze 8,8046867162011 11925
+
+Earrings Platinum 11,1294498718946 19031
+
+Earrings Palladium 15,4565831066373 5051
+
+Earrings Platinum 2,44638101311698 7037
+
+Earrings Bronze 17,7770411212822 7569
+
+Earrings Gold 11,9877727758082 11356
+
+Earrings Platinum 7,45244597431852 9673
+
+Earrings Gold 7,99354683048723 11374
+
+Necklace Bronze 0,0620421394994679 18462
+
+Necklace Palladium 18,6273572308139 3943
+
+Necklace Gold 0,842444636319971 3200
+
+Necklace Bronze 13,9291535103364 17829
+
+Necklace Bronze 1,56035178413631 14026
+
+Necklace Palladium 9,45670467310432 5578
+
+Necklace Platinum 11,844947511258 14764
+
+Necklace Silver 18,4547709200786 6348
+
+Necklace Silver 19,222780763741 19846
+
+Necklace Gold 19,5276569945401 1260
+
+Necklace Platinum 19,7447179815474 11550
+
+Necklace Bronze 15,2611696791189 8170
+
+Necklace Bronze 1,9828885989184 15288
+
+Necklace Gold 0,610812623338221 16484
+
+WeddingRing Platinum 5,6770775027932 1010
+
+WeddingRing Gold 2,7186519758397 13030
+
+WeddingRing Bronze 6,17263702031813 19157
+
+WeddingRing Palladium 11,5006411594807 18338
+
+WeddingRing Palladium 9,6345384556961 9811
+
+WeddingRing Gold 18,0494022732831 2279
+
+WeddingRing Bronze 10,7898703081486 13566
+
+WeddingRing Bronze 12,6896261576049 16007
+
+WeddingRing Platinum 5,3297473608189 12907
+
+WeddingRing Silver 4,63600417814963 12648
+
+WeddingRing Silver 17,6490368217458 9829
+
+Coulomb Platinum 2,74047249124407 19466
+
+Coulomb Platinum 5,46813095243095 18901
+
+Coulomb Bronze 14,678203535582 13984
+
+Coulomb Silver 4,55247911836602 17011
+
+Coulomb Bronze 6,87621382385316 15611
+
+Coulomb Silver 1,89008249057926 14489
+
+Coulomb Gold 15,5821747405372 10550
+
+Coulomb Bronze 18,5531362046269 13273
+
+Coulomb Palladium 16,4794436173883 14500
+
+Coulomb Gold 13,7220762640806 15012
+
+Coulomb Silver 6,66359372747298 12420
+
+Coulomb Bronze 18,7756884651145 1336
+
+Coulomb Bronze 19,1087880260818 10121
+
+Coulomb Silver 7,77142295044447 4721
+
+Coulomb Bronze 5,80288063073665 7412
+
+Coulomb Bronze 15,9375995192386 14388
+
+Coulomb Silver 18,9350803657133 15365
+
+Coulomb Gold 2,00323427189292 5147
+
+Lviv, st. Sykhivs'ka, 21
+Name: Bronze	Count: 7
+
+Name: Platinum	Count: 14
+
+Name: Palladium	Count: 7
+
+Name: Gold	Count: 3
+
+Name: Silver	Count: 9
+
+Ternopil, st. Bogdan Khmelnitsky, 59
+Name: Platinum	Count: 13
+
+Name: Silver	Count: 19
+
+Name: Bronze	Count: 24
+
+Name: Gold	Count: 11
+
+Name: Palladium	Count: 14
+
+Earrings Platinum 15,9385537430358 12460
+
+Earrings Platinum 7,37603511073442 5479
+
+Earrings Bronze 1,97495416830059 16608
+
+Earrings Silver 19,4451533441642 12626
+
+Earrings Gold 4,04452158326494 10141
+
+Earrings Palladium 9,92564490527177 1187
+
+Earrings Palladium 9,875760250667 4128
+
+Earrings Platinum 18,3275613553485 1223
+
+Earrings Bronze 16,8415572665825 3737
+
+Earrings Bronze 4,40834744107367 12119
+
+Earrings Silver 10,6454807476352 15152
+
+Earrings Bronze 8,26909765054895 12266
+
+Earrings Silver 10,255863745816 11210
+
+Earrings Platinum 14,2000415801071 11710
+
+Earrings Bronze 10,3653005558836 2143
+
+Earrings Bronze 1,99613164271979 10284
+
+Earrings Silver 5,54794719701072 18672
+
+Earrings Silver 5,54447812286414 17200
+
+Earrings Bronze 7,90301377321734 18353
+
+Earrings Bronze 19,3661378134816 8470
+
+Necklace Gold 7,45758003902509 1916
+
+Necklace Palladium 0,627412535542349 1044
+
+Necklace Silver 7,9640420004558 19899
+
+Necklace Bronze 0,23079523827452 9971
+
+Necklace Palladium 13,9987469902256 8267
+
+Necklace Silver 5,1298604184435 17200
+
+Necklace Silver 5,25206646195243 3261
+
+Necklace Palladium 11,4132297837237 19215
+
+Necklace Bronze 4,01164146327024 19519
+
+Necklace Silver 7,90832586954735 9406
+
+Necklace Silver 11,8547711110929 8366
+
+Necklace Silver 1,38429930498092 3184
+
+Necklace Platinum 1,46704371155568 14139
+
+Necklace Bronze 7,55242799760421 13910
+
+Necklace Palladium 12,2355647442097 1070
+
+Necklace Palladium 6,33771406781753 9547
+
+Necklace Gold 6,08490325793852 19614
+
+Necklace Gold 14,2346993061875 11562
+
+Necklace Platinum 17,2163366047742 19769
+
+Necklace Bronze 1,44090269759339 16204
+
+Necklace Palladium 5,3333572043727 14799
+
+WeddingRing Silver 0,847204858831691 5064
+
+WeddingRing Silver 13,6771996289851 10494
+
+WeddingRing Platinum 9,11963318899257 3732
+
+WeddingRing Silver 15,4335885659948 6605
+
+WeddingRing Bronze 10,7942627420622 6729
+
+WeddingRing Silver 7,17518980017639 13281
+
+WeddingRing Gold 6,32814330343536 6294
+
+WeddingRing Palladium 0,767350262388284 12462
+
+WeddingRing Platinum 12,7112888510857 11270
+
+WeddingRing Bronze 12,8782205995537 8466
+
+WeddingRing Bronze 8,22410903322702 15706
+
+WeddingRing Platinum 10,5542042900595 9360
+
+WeddingRing Gold 1,57136378882982 4392
+
+WeddingRing Silver 14,8049943963089 6879
+
+WeddingRing Bronze 4,31421575337379 15900
+
+WeddingRing Platinum 1,70854164367008 18406
+
+WeddingRing Gold 8,84723263273352 8983
+
+Coulomb Silver 8,86413354839391 17830
+
+Coulomb Bronze 4,71194038387013 5028
+
+Coulomb Bronze 8,88093846332326 1512
+
+Coulomb Silver 10,4909361668355 3687
+
+Coulomb Bronze 18,4453893352511 6171
+
+Coulomb Gold 3,73915046627594 6540
+
+Coulomb Gold 8,53386877502029 8755
+
+Coulomb Bronze 0,00968046486828498 8028
+
+Coulomb Platinum 11,607514979135 4599
+
+Coulomb Bronze 3,74240045609996 15239
+
+Coulomb Silver 4,68327407011915 14181
+
+Coulomb Platinum 8,02415477485589 17649
+
+Coulomb Platinum 9,14658748039351 12185
+
+Coulomb Bronze 5,83541683193083 15323
+
+Coulomb Bronze 3,55389757247357 19379
+
+Coulomb Palladium 1,38539116894146 1487
+
+Coulomb Palladium 15,8135551287856 17933
+
+Coulomb Palladium 14,9887417978555 9265
+
+Coulomb Gold 15,3482331872677 9873
+
+Coulomb Palladium 9,83830114353369 15674
+
+Coulomb Gold 16,320997120962 16623
+
+Coulomb Bronze 0,594251649730956 11719
+
+Coulomb Palladium 2,60157739864736 12948
+
+Kyiv, Peremohy Avenue, 303
+Name: Silver	Count: 7
+
+Name: Gold	Count: 6
+
+Name: Platinum	Count: 2
+
+Name: Palladium	Count: 3
+
+Name: Bronze	Count: 2
+

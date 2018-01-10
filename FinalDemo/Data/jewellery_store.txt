@@ -1,0 +1,11 @@
+﻿Lviv, Chornovil Avenue, 3
+60
+
+Lviv, st. Sykhivs'ka, 21
+40
+
+Ternopil, st. Bogdan Khmelnitsky, 59
+81
+
+Kyiv, Peremohy Avenue, 303
+20
