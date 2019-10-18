@@ -1,14 +1,13 @@
 ﻿using System;
 using FinalDemo.Models;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
+using Xunit;
 
 namespace UnitTests
 {
-    [TestClass]
     public class JewelleryTests
     {
-        [TestMethod]
+        [Fact]
         public void RandomValuesSetCorrectly()
         {
             var jewellery = new Jewellery();
@@ -20,9 +19,9 @@ namespace UnitTests
             jewellery.GetRandomValues(random);
             var price = jewellery.Price;
 
-            Assert.IsNotNull(jewellery);
-            Assert.IsFalse(string.IsNullOrEmpty(jewellery.Title.ToString()));
-            Assert.IsTrue(price >= 1000 && price < 20000);
+            Assert.NotNull(jewellery);
+            Assert.False(string.IsNullOrEmpty(jewellery.Title.ToString()));
+            Assert.True(price >= 1000 && price < 20000);
         }
     }
 }

@@ -4,39 +4,37 @@ using System.IO;
 using System.Linq;
 using FinalDemo.Models;
 using FinalDemo.Processors;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Moq;
+using Xunit;
 
 namespace UnitTests
 {
-    [TestClass]
     public class JewelleryStoreTests
     {
-        [TestMethod]
+        [Fact]
         public void CanCreateStoreWithDefaultCapacity()
         {
             var store = new JewelleryStore();
 
-            Assert.IsNotNull(store);
-            Assert.IsNotNull(store.Jewelleries);
-            Assert.AreEqual(0, store.JewelleriesCount);
-            Assert.AreEqual(4, store.Jewelleries.Capacity);
+            Assert.NotNull(store);
+            Assert.NotNull(store.Jewelleries);
+            Assert.Equal(0, store.JewelleriesCount);
+            Assert.Equal(4, store.Jewelleries.Capacity);
         }
 
-        [TestMethod]
+        [Fact]
         public void CanCreateStoreWithSpecifiedCapacity()
         {
             const int capacity = 18;
             var store = new JewelleryStore(18);
 
 
-            Assert.IsNotNull(store);
-            Assert.IsNotNull(store.Jewelleries);
-            Assert.AreEqual(0, store.JewelleriesCount);
-            Assert.AreEqual(capacity, store.Jewelleries.Capacity);
+            Assert.NotNull(store);
+            Assert.NotNull(store.Jewelleries);
+            Assert.Equal(0, store.JewelleriesCount);
+            Assert.Equal(capacity, store.Jewelleries.Capacity);
         }
 
-        [TestMethod]
+        [Fact]
         public void RandomValuesSetCorrectly()
         {
             var store = new JewelleryStore();
@@ -46,20 +44,20 @@ namespace UnitTests
 
             store.GetRandomJewelleries(count, random);
 
-            Assert.IsNotNull(store);
-            Assert.IsNotNull(store.Jewelleries);
-            Assert.AreEqual("Lviv", store.Address);
-            Assert.AreEqual(count, store.JewelleriesCount);
+            Assert.NotNull(store);
+            Assert.NotNull(store.Jewelleries);
+            Assert.Equal("Lviv", store.Address);
+            Assert.Equal(count, store.JewelleriesCount);
 
             foreach (var j in store.Jewelleries)
             {
-                Assert.IsNotNull(j);
-                Assert.IsFalse(string.IsNullOrEmpty(j.Title.ToString()));
-                Assert.IsTrue(j.Price >= 1000 && j.Price < 20000);
+                Assert.NotNull(j);
+                Assert.False(string.IsNullOrEmpty(j.Title.ToString()));
+                Assert.True(j.Price >= 1000 && j.Price < 20000);
             }
         }
 
-        [TestMethod]
+        [Fact]
         public void GetSortedJewelleriesFromStoresTest()
         {
             List<string> list = new List<string>() { "Earrings", "Necklace", "WeddingRing", "Coulomb" };
@@ -68,8 +66,9 @@ namespace UnitTests
                         orderby s
                         select s;
 
-           CollectionAssert.AreEqual(
-               new[] { "Coulomb", "Earrings", "Necklace", "WeddingRing" }, query.ToList());
+            var result = query.ToList();
+
+            Assert.Collection(result, s => s.Contains("Coulomb"), s => s.Contains("Earrings"), s => s.Contains("Necklace"), s => s.Contains("WeddingRing"));
         }
 
   //      [TestMethod] //TODO
