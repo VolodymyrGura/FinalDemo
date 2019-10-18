@@ -5,14 +5,25 @@
     using System.Configuration;
     using Models;
     using Newtonsoft.Json;
+    using Microsoft.Extensions.Configuration;
+    using Microsoft.Extensions.Logging;
 
     public class ApplicationManager
     {
+        private readonly IConfiguration _configuration;
+        private readonly ILogger _logger;
+
+        public ApplicationManager(IConfiguration configuration, ILogger logger)
+        {
+            _configuration = configuration;
+            _logger = logger;
+        }
+
         public void WriteIntoFile(string inputFilename, string outputFilename)
         {
-            var storeReader = new JewelleryStoreReader(inputFilename);
-            var storeProcessor = new JewelleryStoreProcessor();
-            var textFileProcessor = new TextProcessor();
+            var storeReader = new JewelleryStoreReader(inputFilename, _logger);
+            var storeProcessor = new JewelleryStoreProcessor(_logger);
+            var textFileProcessor = new TextProcessor(_logger);
 
             var stores = storeReader.ReadStores();
 
@@ -36,9 +47,9 @@
 
         public void WriteIntoFileCount(string inputFilename, string outputFilename)
         {
-            var storeReader = new JewelleryStoreReader(inputFilename);
-            var storeProcessor = new JewelleryStoreProcessor();
-            var textFileProcessor = new TextProcessor();
+            var storeReader = new JewelleryStoreReader(inputFilename, _logger);
+            var storeProcessor = new JewelleryStoreProcessor(_logger);
+            var textFileProcessor = new TextProcessor(_logger);
 
             var stores = storeReader.ReadStores();
 
@@ -56,10 +67,10 @@
 
         public void SerializeInfo(string inputFilename, string outputFilename)
         {
-            var storeReader = new JewelleryStoreReader(inputFilename);
-            var storeProcessor = new JewelleryStoreProcessor();
-            var textFileProcessor = new TextProcessor();
-            var outputText = ConfigurationManager.AppSettings["OutputTextFile"];
+            var storeReader = new JewelleryStoreReader(inputFilename, _logger);
+            var storeProcessor = new JewelleryStoreProcessor(_logger);
+            var textFileProcessor = new TextProcessor(_logger);
+            var outputText = _configuration.GetValue<string>("OutputTextFile");
 
             var stores = storeReader.ReadStores();
 

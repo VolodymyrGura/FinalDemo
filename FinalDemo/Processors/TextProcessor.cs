@@ -4,16 +4,21 @@
     using System.IO;
     using System.Text;
     using System.Threading.Tasks;
+    using Microsoft.Extensions.Logging;
 
     public class TextProcessor
     {
         private StreamReader reader;
         private StreamWriter writer;
+        private readonly ILogger _logger;
 
+        public TextProcessor(ILogger logger)
+        {
+            _logger = logger;
+        }
 
         public string ReadText(string filename)
         {
-            Logger.InitLogger();
             try
             {
                 using (this.reader = new StreamReader(filename, Encoding.UTF8))
@@ -23,7 +28,7 @@
             }
             catch (Exception ex)
             {
-                Logger.Log.Error("Unhandled exception", ex);
+                _logger.LogError(ex, "Unhandled exception");
             }
 
             return null;
@@ -31,7 +36,6 @@
 
         public void WriteText(string filename, string text)
         {
-            Logger.InitLogger();
             try
             {
                 using (this.writer = new StreamWriter(filename, true))
@@ -41,7 +45,7 @@
             }
             catch (Exception ex)
             {
-                Logger.Log.Error("Unhandled exception", ex);
+                _logger.LogError(ex, "Unhandled exception");
             }
         }
     }

@@ -4,15 +4,22 @@
     using System.Collections.Generic;
     using System.Linq;
     using Models;
+    using Microsoft.Extensions.Logging;
 
     public class JewelleryStoreProcessor
     {
+        private readonly ILogger _logger;
+
+        public JewelleryStoreProcessor(ILogger logger)
+        {
+            _logger = logger;
+        }
+
         public List<MetalCountPair> GetAllMetalsCountDistinct(JewelleryStore store)
         {
-            Logger.InitLogger();
             if (store == null)
             {
-                Logger.Log.Error($"Invalid argument: {nameof(store)}");
+                _logger.LogError($"Invalid argument: {nameof(store)}");
                 throw new ArgumentNullException(nameof(store));
             }
 
@@ -26,10 +33,9 @@
 
         public List<Jewellery> GetSortedJewelleriesFromStores(JewelleryStore store, int jewelleriesCount)
         {
-            Logger.InitLogger();
             if (store == null)
             {
-                Logger.Log.Error($"Invalid argument: {nameof(store)}");
+                _logger.LogError($"Invalid argument: {nameof(store)}");
                 throw new ArgumentNullException(nameof(store));
             }
 
