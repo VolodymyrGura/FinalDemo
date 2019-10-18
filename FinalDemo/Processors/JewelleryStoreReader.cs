@@ -6,16 +6,19 @@
     using System.Linq;
     using System.Threading.Tasks;
     using Models;
+    using Microsoft.Extensions.Logging;
 
     public class JewelleryStoreReader
     {
         private readonly TextProcessor processor;
         private string filename;
+        private readonly ILogger _logger;
 
-        public JewelleryStoreReader(string filename)
+        public JewelleryStoreReader(string filename, ILogger logger)
         {
-            this.processor = new TextProcessor();
+            this.processor = new TextProcessor(logger);
             this.Filename = filename;
+            _logger = logger;
         }
 
         public string Filename
